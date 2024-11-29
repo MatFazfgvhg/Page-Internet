@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Rouge</title>
+    <style>
+        body {
+            background-color: red; /* Fond rouge */
+            height: 100vh; /* Prend toute la hauteur de la fenêtre */
+            margin: 0; /* Enlever les marges par défaut */
+            display: flex; /* Utiliser flexbox pour centrer */
+            justify-content: center; /* Centrer horizontalement */
+            align-items: center; /* Centrer verticalement */
+            font-family: Arial, sans-serif; /* Police du texte */
+            color: white; /* Couleur du texte */
+            font-size: 3em; /* Taille du texte */
+        }
+    </style>
+</head>
+<body>
+    <p>Bonjour</p>
+</body>
+</html>
